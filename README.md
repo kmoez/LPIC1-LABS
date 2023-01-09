@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/ahmedoueslati/90b621cd-0f39-457e-be97-58a255c82c13/e33dfd20-3d78-4ec6-a7c6-69c4419be624/_apis/work/boardbadge/f6c1d818-0e95-48b2-87ff-1333049719b2)](https://dev.azure.com/ahmedoueslati/90b621cd-0f39-457e-be97-58a255c82c13/_boards/board/t/e33dfd20-3d78-4ec6-a7c6-69c4419be624/Microsoft.RequirementCategory)
 # LPIC1-LABS
